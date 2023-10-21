@@ -35,6 +35,9 @@ usage : python2 XG_YIND.py payload.bin UUID_loader1
 usage : python2 XG_YIND.py 123.bin RMM_loader1
 ```
 ![img](img/img.png)
+
+
+
 # 免杀效果
 
 2021/7/26，效果还可以，就是exe文件在4M左右
