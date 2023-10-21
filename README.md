@@ -17,7 +17,7 @@ pip install pyinstaller==3.0
 
 ## 使用方法
 
-目前搭载三种申请内存方式和六种写入内存方式
+目前搭载三种申请内存方式和六种写入内存方式 
 
 temper_list :  ["RMM_loader1/2/3","REG_loader1/2/3","MAC_loader1/2/3","UUID_loader1/2/3","ipv4_temper1/2/3","ipv6_temper1/2/3"]
 
